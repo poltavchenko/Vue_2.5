@@ -1,0 +1,794 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"alert",
+				"alertTest"
+			],
+			[
+				"new",
+				"newField"
+			],
+			[
+				"vue",
+				"vue1"
+			],
+			[
+				"doc",
+				"Document"
+			],
+			[
+				"he",
+				"heading"
+			],
+			[
+				"cha",
+				"changeTitle"
+			],
+			[
+				"tex",
+				"textValue"
+			],
+			[
+				"te",
+				"textValue"
+			],
+			[
+				"in",
+				"inputValue"
+			],
+			[
+				"cli",
+				"clickOnGoogle"
+			],
+			[
+				"visib",
+				"visible-xs"
+			],
+			[
+				"vis",
+				"visible-xs"
+			],
+			[
+				"hid",
+				"hidden-xs"
+			],
+			[
+				"hi",
+				"hidden-xs"
+			],
+			[
+				"hidde",
+				"hidden-xs"
+			],
+			[
+				"bas",
+				"base-link-color"
+			],
+			[
+				"font",
+				"font-size-base"
+			],
+			[
+				"col",
+				"col-md-5"
+			],
+			[
+				"fon",
+				"font-size-base"
+			],
+			[
+				"dar",
+				"dark-green"
+			],
+			[
+				"ba",
+				"base-link-color"
+			],
+			[
+				"sr",
+				"sr-only"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"la",
+				"last-md"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"d",
+				"dark-green"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"help",
+				"helping"
+			],
+			[
+				"rew",
+				"rewards__item"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"base",
+				"base-hover-link-color"
+			],
+			[
+				"aan",
+				"animation-speed"
+			],
+			[
+				"anim",
+				"animation-speed"
+			],
+			[
+				"ma",
+				"magento"
+			],
+			[
+				"init",
+				"initFocusClass"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"h",
+				"hover"
+			],
+			[
+				"p",
+				"prompt"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"live",
+				"livereload_plugin\tCreate new LiveReload plugin"
+			],
+			[
+				"bod",
+				"body"
+			],
+			[
+				"c",
+				"colspan\tAttr"
+			],
+			[
+				"bdr",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 386,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "vue",
+		"selected_items":
+		[
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"enc",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Markuper/AppData/Local/Temp/scp24567/var/www/sites/youdrugstore/htdocs/assets/js/main.js",
+		"/C/Users/Markuper/AppData/Local/Temp/scp24881/var/www/sites/youdrugstore/htdocs/assets/css/main.css",
+		"/C/Users/Markuper/AppData/Local/Temp/scp24396/var/www/sites/youdrugstore/htdocs/inc/templates/template_flypage.php",
+		"/C/Users/Markuper/AppData/Local/Temp/scp24343/var/www/sites/youdrugstore/htdocs/inc/templates/template_basket.php",
+		"/C/Users/Markuper/AppData/Local/Temp/scp51019/var/www/sites/youdrugstore/htdocs/inc/templates/template_basket.php",
+		"/C/Users/Markuper/AppData/Local/Temp/scp50180/var/www/sites/youdrugstore/htdocs/inc/modules/shop/html/cart.ihtml",
+		"/C/Users/Markuper/AppData/Local/Temp/scp38980/var/www/sites/youdrugstore/htdocs/inc/templates/template_flypage.php",
+		"/C/Users/Markuper/AppData/Local/Temp/scp38563/var/www/sites/youdrugstore/htdocs/inc/templates/s_header.ihtml",
+		"/C/Users/Markuper/AppData/Local/Temp/scp38018/var/www/sites/youdrugstore/htdocs/inc/templates/s_footer.ihtml",
+		"/C/Users/Markuper/AppData/Local/Temp/scp39677/var/www/sites/youdrugstore/htdocs/assets/css/main.css",
+		"/C/Users/Markuper/AppData/Local/Temp/scp38398/var/www/sites/youdrugstore/htdocs/assets/js/main.js",
+		"/D/Freelance/Task/Oberig/projects/youdrugstore/Feature #7541/backup/2018.08.27/assets/css/main.css",
+		"/C/Users/Markuper/AppData/Local/Temp/scp50937/var/www/sites/youdrugstore/htdocs/inc/templates/template_flypage.php",
+		"/C/Users/Markuper/AppData/Local/Temp/scp50406/var/www/sites/youdrugstore/htdocs/inc/templates/s_header.ihtml",
+		"/C/Users/Markuper/AppData/Local/Temp/scp50654/var/www/sites/youdrugstore/htdocs/inc/templates/s_footer.ihtml",
+		"/C/Users/Markuper/AppData/Local/Temp/scp49631/var/www/sites/youdrugstore/htdocs/assets/js/main.js",
+		"/C/Users/Markuper/AppData/Local/Temp/scp49910/var/www/sites/youdrugstore/htdocs/assets/css/main.css",
+		"/E/Dropbox/JS Education/Vue/Vue_2.5/index.html",
+		"/E/Dropbox/JS Education/Vue/Vue_2.5/package-lock.json",
+		"/C/Users/Markuper/AppData/Local/Temp/scp59011/var/www/sites/youdrugstore/htdocs/assets/css/main.css",
+		"/C/Users/Markuper/AppData/Local/Temp/scp59492/var/www/sites/youdrugstore/htdocs/inc/templates/template_flypage.php",
+		"/C/Users/Markuper/AppData/Local/Temp/scp59597/var/www/sites/youdrugstore/htdocs/inc/templates/s_header.ihtml",
+		"/C/Users/Markuper/AppData/Local/Temp/scp59527/var/www/sites/youdrugstore/htdocs/inc/templates/s_footer.ihtml",
+		"/C/Users/Markuper/AppData/Local/Temp/scp58283/var/www/sites/youdrugstore/htdocs/inc/modules/shop/html/people_also_buy.php",
+		"/C/Users/Markuper/AppData/Local/Temp/scp59294/var/www/sites/youdrugstore/htdocs/assets/js/main.js",
+		"/C/Users/Markuper/AppData/Local/Temp/scp35797/var/www/sites/youdrugstore/htdocs/assets/css/main.css",
+		"/C/Users/Markuper/AppData/Local/Temp/scp35549/var/www/sites/youdrugstore/htdocs/assets/js/main.js",
+		"/C/Users/Markuper/AppData/Local/Temp/scp11974/var/www/sites/youdrugstore/htdocs/inc/modules/shop/html/people_also_buy.php",
+		"/C/Users/Markuper/AppData/Local/Temp/scp35098/var/www/sites/youdrugstore/htdocs/inc/templates/s_header.ihtml",
+		"/C/Users/Markuper/AppData/Local/Temp/scp35677/var/www/sites/youdrugstore/htdocs/inc/templates/s_footer.ihtml",
+		"/C/Users/Markuper/AppData/Local/Temp/scp59758/var/www/sites/youdrugstore/htdocs/inc/templates/template_flypage.php",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/sourceimages/svg-icons/facebook.svg",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/04-interior.html",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/06-who-we-are-single.html",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/05-who-we-are-single-search.html",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/03-blog-single.html",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/02-blog-search.html",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/01-home.html",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/sourceimages/angle-double-right.svg",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/sourceimages/angle-double-right-2.svg",
+		"/E/MarkupAnna/Moscow/vedomosti/plusonevedomosti/sublime.sublime-project",
+		"//DESKTOP-ETEMLE2/Temp/S2S/markup20180827111927/markup/scss/style.scss",
+		"//DESKTOP-ETEMLE2/Temp/S2S/markup20180827111927/markup/style.css",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/scss/vendors/_flex-grid.scss",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/05-who-we-are-single.html",
+		"/E/MarkupAnna/Moscow/vedomosti/plusonevedomosti/46-education.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/02-interior.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/wp-test-page.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/input/icons/icomoon/SVG/fire.svg",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/input/icons/icomoon/SVG/puzzle.svg",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/input/flexboxgrid-6.3.1/js/index.js",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/scss/vendors/_flex-grid.scss",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/sourceimages/angle-double-right-solid.svg",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/sourceimages/angle-double-right.svg",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/sourceimages/svg-icons/graduation-cap.svg",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/sourceimages/svg-icons/twitter.svg",
+		"/E/MarkupAnna/Reliable/Care/markup/scss/style.scss",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/style.css",
+		"/E/MarkupAnna/Reliable/Care/markup/js/jquery.main.js",
+		"/E/MarkupAnna/Reliable/Care/markup/01-home.html",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/sourceimages/svg-icons/medium.svg",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/sourceimages/svg-icons/linkedin.svg",
+		"/E/MarkupAnna/Reliable/Playricky/markup/scss/main.scss",
+		"/E/MarkupAnna/Moscow/vedomosti/plusonevedomosti/sourceimages/ico-caution-red.svg",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/scss/plugins/_slick.scss",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/index.html",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/Gruntfile.js",
+		"/E/MarkupAnna/Reliable/Service2Teachers/markup/style.css",
+		"/E/MarkupAnna/!!!markup-zagotovka/markup/scss/main.scss",
+		"/E/Temp/!!!markup-zagotovka/js/jquery.main.js",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/js/jquery.main.js",
+		"/E/Temp/!!!markup-zagotovka/grunt-settings.js",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/scss/base/_cms-reset.scss",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/scss/base/_wp-reset.scss",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/scss/base/_forms.scss",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/scss/style.scss",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/scss/base/_mixins.scss",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/10-contact.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/08-careers.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/scss/base/_variables.scss",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/scss/base/_typography.scss",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/06-service-help_for_veterans.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/04-location-denver.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/03-location-chicagoland.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/07-testimonials.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/02-about.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/01-home.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/05-service-in_home_care.html",
+		"/D/Freelance/Task/Reliable-PSD/service2teachers/markup/scss/plugins/_slick.scss",
+		"/D/Freelance/Task/Reliable-PSD/care-and-comfort-at-home/markup/12-wp-test-page.html",
+		"/D/Freelance/Task/Reliable-PSD/care-and-comfort-at-home/markup/11-resources.html",
+		"/D/Freelance/Task/Reliable-PSD/care-and-comfort-at-home/markup/09-blog.html",
+		"/D/Freelance/Task/Reliable-PSD/care-and-comfort-at-home/markup/04-location-chicagoland.html",
+		"/E/Markup/dev/Forms/css3-custom-forms/CSS3 Custom Forms.htm",
+		"/E/MarkupAnna/Reliable/Care/markup/12-wp-test-page — копия.html",
+		"/E/MarkupAnna/Reliable/Care/input/wp-reset-for-reliable/wp-test-page.html",
+		"/E/MarkupAnna/Reliable/Care/care-and-comfort-at-home20180513161452/markup/12-wp-test-page.html",
+		"/E/MarkupAnna/Reliable/Care/markup/wp-test-page.html",
+		"/E/MarkupAnna/Reliable/Care/markup/wp-test-page-copy.html",
+		"/E/MarkupAnna/truvy/markup/wp-test-page.html",
+		"/E/MarkupAnna/Reliable/Care/markup/scss/base/_mixins.scss",
+		"/E/MarkupAnna/Reliable/Care/markup/scss/base/_reset.scss",
+		"/E/MarkupAnna/Reliable/Care/markup/scss/base/_font-face.scss",
+		"/C/Users/Markup2/Downloads/Telegram Desktop/jquery.main (2).js",
+		"/E/MarkupAnna/Reliable/Care/markup/02-about.html",
+		"/E/MarkupAnna/Reliable/Care/markup/08-careers.html",
+		"/E/MarkupAnna/truvy/markup/03-technology.html",
+		"/E/MarkupAnna/Reliable/Care/markup/home.html",
+		"/E/MarkupAnna/Reliable/Care/input/transfonter.org-20180507-081943/stylesheet.css",
+		"/E/MarkupAnna/!!!markup-zagotovka/index.html",
+		"/E/MarkupAnna/!!!markup-zagotovka/scss/main.scss",
+		"/E/MarkupAnna/Reliable/Care/markup/index.html",
+		"/E/MarkupAnna/Reliable/Playricky/markup/js/jquery.main.js",
+		"/E/MarkupAnna/Reliable/Care/markup/scss/base/_font-face.css",
+		"/E/MarkupAnna/Projects/vernier/scss/style.scss",
+		"/E/MarkupAnna/Reliable/Playricky/markup/scss/base/_variables.scss",
+		"/D/Freelance/Task/Reliable-PSD/playricky/markup/scss/base/_reset.scss",
+		"/D/Markup/W3Soft/dev/datepicker/air-datepicker-master/dist/js/datepicker.min.js",
+		"/D/Markup/W3Soft/dev/Forms/custom-forms/jcf.ru.html",
+		"/D/Markup/W3Soft/dev/Forms/w3co-jcf-v1.2.3-0-g2c671e2/w3co-jcf-2c671e2/js/jcf.js",
+		"/D/Markup/W3Soft/dev/datepicker/air-datepicker-master/src/js/air-datepicker.js",
+		"/D/Markup/W3Soft/dev/datepicker/air-datepicker-master/dist/js/datepicker.js",
+		"/D/Freelance/Task/Oberig/projects/Medi-wholesale/assets/js/i18n/datepicker.en.js",
+		"/D/Markup/W3Soft/dev/datepicker/air-datepicker-master/src/js/navigation.js",
+		"/D/Markup/W3Soft/dev/datepicker/air-datepicker-master/src/js/body.js",
+		"/D/Freelance/Task/Oberig/projects/Medi-wholesale/input/builder-archive (1)/index.html",
+		"/D/Freelance/Task/Oberig/projects/Medi-wholesale/input/builder-archive (1)/js/jquery.main.js",
+		"/D/Freelance/Task/Oberig/projects/Medi-wholesale/assets/Easy-Responsive-Tabs-to-Accordion-master/Index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".slick-slide div",
+			"cart-product-requirement",
+			".product-actions",
+			"product-actions",
+			".quantity-label",
+			".banner",
+			".testimonial-slider__nam",
+			"angle-double-right",
+			".input-holder.comment-form-comment",
+			".comment-form",
+			".search-form",
+			".comment-form",
+			"admin-bar",
+			".comment-body",
+			"comment-form",
+			".comment-form",
+			"our",
+			"nav",
+			"slider",
+			"slider\nslider",
+			"social",
+			"social-networks--2",
+			"btn-holder",
+			"header__sin",
+			"50%",
+			"pagination ",
+			"intro",
+			"img",
+			"intro",
+			"img",
+			"как сказано",
+			"green",
+			"conta",
+			"header",
+			"md",
+			"comment-form",
+			".commentlist",
+			"#comments, #reply-title",
+			".banner",
+			"pagination",
+			".comment-form",
+			".comment-form inp",
+			"banner-text",
+			"articles__item",
+			"blockquote",
+			"fluid-iframe",
+			".wp-caption",
+			"wp-caption-tex",
+			".wp-caption .wp-caption-text",
+			"reverse-md",
+			"banner",
+			"header__btn-holder",
+			"banner-text",
+			"btn-holder",
+			"Sign Up Today!",
+			"logos-slider__item",
+			"logos-slider_item",
+			"ico-text",
+			"numbers",
+			"note__logo",
+			"slider-photo",
+			"<h3>Resources</h3>\n\t\t\t\t\t\t\t\t\t\t<ul class=\"sub-nav\">\n\t\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\">Undergraduate</a></li>\n\t\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\">MBA</a></li>\n\t\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\">JD Law</a></li>\n\t\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\">Medical</a></li>\n\t\t\t\t\t\t\t\t\t\t\t<li><a href=\"#\">Other Graduate</a></li>\n\t\t\t\t\t\t\t\t\t\t</ul>",
+			"form",
+			"bg-stretch",
+			"bg-s",
+			"#",
+			"btn",
+			"efe5dc",
+			"abso",
+			"trans",
+			"tran",
+			"slide",
+			"blue",
+			"red",
+			"breeze",
+			"upp",
+			"frame",
+			"visual",
+			"photo",
+			"visual-photo",
+			"visual",
+			"photo--left",
+			"ins",
+			"insi",
+			"visual-photo",
+			"slogan",
+			"inpu",
+			"rad",
+			".content",
+			"content",
+			"perso",
+			"photo--",
+			"gallery",
+			"select",
+			"wp-caption",
+			"img",
+			"шьп",
+			"wdform-required",
+			"phone",
+			".pagination",
+			"sidebar",
+			"content",
+			"slogan-help",
+			"content",
+			"#content",
+			".content",
+			"content",
+			"gray",
+			"grey",
+			"slogan-help--small",
+			"slogan-help",
+			"aside",
+			"main",
+			"title-3",
+			"title-2",
+			"title-3",
+			"title-2",
+			"help-block-2",
+			"slogan-help-2",
+			"main--b",
+			"main",
+			"clear",
+			"block",
+			"visual",
+			"visua",
+			"slogan",
+			"main-vlo",
+			"cite"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"required",
+			"../images/",
+			"firefly",
+			"$Firefly",
+			"$white",
+			"$blue",
+			"$d-blue",
+			"$blue-2",
+			"class=\"text-button\"",
+			"$orange",
+			"$black",
+			"$white",
+			"$red",
+			"$blue",
+			"$white",
+			"$black",
+			"$d-gray",
+			"$gray",
+			"$d-pink-2",
+			"$d-pink",
+			"$blue",
+			"$black",
+			"$white",
+			"#fff",
+			"#000",
+			"#333",
+			"#555",
+			"black",
+			"$white",
+			"$black",
+			".",
+			"$l-gray",
+			"$black",
+			"$white",
+			"text-box",
+			"page",
+			"@include media(\"≥tablet-2\")",
+			" {",
+			") {",
+			" {",
+			") {",
+			".",
+			" {",
+			".",
+			" {",
+			"$green",
+			".",
+			"section",
+			"ul"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
+							],
+							"syntax": "Packages/vue-syntax-highlight/vue.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.567027477102,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"E:\\MarkupAnna\\Reliable\\Care\\markup\\js\\jquery.main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "on",
+		"selected_items":
+		[
+			[
+				"on",
+				"D:\\Freelance\\Task\\onProkat\\sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
